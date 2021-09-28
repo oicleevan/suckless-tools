@@ -34,4 +34,4 @@ Tweaks and patches for a variety of suckless utilities.
 
 ## installation
 
-all of these programs are installed by navigating to the directory, and executing `sudo make install`.
+all of these programs are installed by navigating to the directory, and executing `make install` as root.
