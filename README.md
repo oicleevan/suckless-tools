@@ -12,7 +12,7 @@ Tweaks and patches for a variety of suckless utilities.
 ## patches
 
 **dwm:**
-- fonts, uses ubuntu mono nerd font. installable from aur: `paru nerd-fonts-ubuntu-mono`
+- fonts, uses ubuntu mono nerd font. installable from aur: `nerd-fonts-ubuntu-mono`
 - matches arc-dark gtk theme
 - super modkey
 - gaps when there are multiple windows on screen
@@ -22,7 +22,7 @@ Tweaks and patches for a variety of suckless utilities.
 - adds panel for kernel version, pacman+aur updates (requires `pacman-contrib` and `checkupdates+aur`, installable from aur), memory usage, and date/time
 
 **dmenu:**
-- font change, uses ubuntu mono nerd font. installable from aur: `paru nerd-fonts-ubuntu-mono`
+- font change, uses ubuntu mono nerd font. installable from aur: `nerd-fonts-ubuntu-mono`
 - color changes, integrates with arc-dark gtk theme
 - shows # of programs under search/# of total programs
 - fuzzy highlighting
